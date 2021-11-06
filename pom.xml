@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.153.72:9168/nexus/repository/skynet-prod-release/</url>
+	      <url>http://15.206.89.195:9168/nexus/repository/skynet-prod-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.153.72:9168/nexus/repository/skynet-vf-dev-snapshort/</url>
+	      <url>http://15.206.89.195:9168/nexus/repository/skynet-vf-dev-snapshort/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
