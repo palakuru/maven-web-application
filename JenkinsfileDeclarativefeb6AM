@@ -6,7 +6,7 @@ label ('skynetinstance')
 }
 
 tools {
- maven 'maven3.6.3'
+ maven 'maven3.8.3'
 }
 
 triggers{
