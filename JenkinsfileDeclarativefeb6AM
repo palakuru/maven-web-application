@@ -1,7 +1,9 @@
 pipeline
 {
 
-agent any
+agent {
+label ('skynetinstance')
+}
 
 tools {
  maven 'maven3.6.3'
