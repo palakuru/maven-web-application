@@ -1,4 +1,5 @@
-node('skynetinstance') {
+node('skynetinstance') 
+{
      def mavenHome=tool name: "maven3.8.3"                                                                                                 
     stage('CheckOUtCodefromGit')
     {
