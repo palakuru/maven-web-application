@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.128.89:8081/repository/flipkart-release/</url>
+	      <url>http://ec2-44-203-170-233.compute-1.amazonaws.com:8081/repository/vodafonerelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.128.89:8081/repository/flipkart-snapshot/</url>
+	      <url>http://ec2-44-203-170-233.compute-1.amazonaws.com:8081/repository/vodafonesnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
